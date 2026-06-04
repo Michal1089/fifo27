@@ -1,4 +1,4 @@
-🏆 FIFA 27 – Mini Gra Piłkarska w JavaScript
+🏆 FIFO 27 – Mini Gra Piłkarska w JavaScript
 
 Prosty projekt gry piłkarskiej działającej w przeglądarce, napisany w HTML + CSS + JavaScript.
 Dwóch graczy steruje postaciami na boisku, walczy o piłkę i strzela gole do bramek. Wynik jest zliczany automatycznie.
@@ -24,11 +24,3 @@ HTML5
 CSS3
 
 JavaScript
-
-🚀 Jak uruchomić grę?
-
-Pobierz projekt lub sklonuj repozytorium
-
-Otwórz index.html w przeglądarce
-
-Graj ze znajomym na jednej klawiaturze!
